@@ -97,7 +97,7 @@ A curated portfolio of active public repositories across AI systems, creative 3D
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/Adityapawar7/SLIDE-AI-">
-        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=800&auto=format&fit=crop" alt="Slide AI Preview" width="100%" style="border-radius: 10px;" />
+        <img src="assets/images/slide-ai-preview.jpg" alt="Slide AI Preview" width="100%" style="border-radius: 10px;" />
       </a>
     </td>
   </tr>
@@ -117,7 +117,7 @@ A curated portfolio of active public repositories across AI systems, creative 3D
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/Adityapawar7/scuderia-ferrari-webgl">
-        <img src="https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=800&auto=format&fit=crop" alt="Ferrari 488 GT3 Preview" width="100%" style="border-radius: 10px;" />
+        <img src="assets/images/ferrari-webgl-preview.jpg" alt="Ferrari 488 GT3 Preview" width="100%" style="border-radius: 10px;" />
       </a>
     </td>
   </tr>
@@ -135,7 +135,7 @@ A curated portfolio of active public repositories across AI systems, creative 3D
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/Adityapawar7/learnerz-premium-study-suite">
-        <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=800&auto=format&fit=crop" alt="Learnerz Study OS Preview" width="100%" style="border-radius: 10px;" />
+        <img src="assets/images/learnerz-preview.jpg" alt="Learnerz Study OS Preview" width="100%" style="border-radius: 10px;" />
       </a>
     </td>
   </tr>
@@ -153,7 +153,7 @@ A curated portfolio of active public repositories across AI systems, creative 3D
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/Adityapawar7/DeveloperOS">
-        <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop" alt="DeveloperOS Preview" width="100%" style="border-radius: 10px;" />
+        <img src="assets/images/developeros-preview.jpg" alt="DeveloperOS Preview" width="100%" style="border-radius: 10px;" />
       </a>
     </td>
   </tr>
@@ -178,7 +178,7 @@ A curated portfolio of active public repositories across AI systems, creative 3D
 <!--DIGEST_START-->
 
 ### 📡 Live Repository Telemetry & Activity Digest
-> *Automated digest compiled at **`2026-09-06 19:23 UTC`** by unattended GitHub Actions runner.*
+> *Automated digest compiled at **`2026-09-06 19:43 UTC`** by unattended GitHub Actions runner.*
 
 | Repository | Focus & Domain | Primary Tech | Stars | Forks | Open Issues | Last Activity |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |

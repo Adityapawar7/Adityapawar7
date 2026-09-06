@@ -1,16 +1,26 @@
 <div align="center">
 
   <h1>Aaditya Pawar</h1>
-  <p><strong>Computer Engineering Student • AI/ML & Full-Stack Developer • 3D Creative Engineer</strong></p>
+  <p><strong>Computer Engineering Student • Full-Stack & AI Systems • High-Performance 3D WebGL</strong></p>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/Adityapawar7">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1200&color=FFBA00&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+AI+%26+Machine+Learning;Full-Stack+Engineer+%7C+TypeScript+%26+Python;High-Performance+3D+WebGL+%26+Shader+Architectures;Building+Scalable+Web+Apps%2C+Android+Systems+%26+AI+Tools" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1200&color=FFBA00&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+AI+%26+Machine+Learning;Full-Stack+Engineer+%7C+TypeScript+%26+Python;High-Performance+3D+WebGL+%26+Shader+Architectures;Building+Scalable+Web+Apps%2C+Android+Systems+%26+AI+Tools" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
 
-  <!-- Professional Connect & Profile Badges -->
+  <!-- Quick Navigation -->
+  <p align="center">
+    <a href="#-about-me"><b>About</b></a> •
+    <a href="#%EF%B8%8F-core-engineering-stack"><b>Stack</b></a> •
+    <a href="#-featured-projects--repositories"><b>Projects</b></a> •
+    <a href="#-github-telemetry"><b>Telemetry</b></a> •
+    <a href="#-unattended-daily-repository-digest"><b>Daily Digest</b></a> •
+    <a href="#-connect--collaborate"><b>Contact</b></a>
+  </p>
+
+  <!-- Social & Connect Badges -->
   <p align="center">
     <a href="mailto:adityapawarone8@gmail.com">
       <img src="https://img.shields.io/badge/Email-adityapawarone8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -18,77 +28,157 @@
     <a href="https://github.com/Adityapawar7">
       <img src="https://img.shields.io/badge/GitHub-Adityapawar7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://scuderia-ferrari-webgl.vercel.app">
+    <a href="https://scuderia-ferrari-webgl.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Showcase-Ferrari%20WebGL-FFBA00?style=flat-square&logo=google-chrome&logoColor=black" alt="Live Showcase" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Adityapawar7&color=FFBA00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Adityapawar7&label=Profile%20Views&color=FFBA00&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👋 About Me
 
-> Passionate **Computer Engineering student** with hands-on focus across **Artificial Intelligence, Machine Learning, Full-Stack Architecture**, and **High-Performance 3D Web Graphics**. Dedicated to engineering responsive, scalable, and zero-compromise digital experiences — ranging from AI presentation platforms and Android productivity operating systems to 60+ FPS WebGL simulations.
+> Passionate **Computer Engineering student** with practical expertise in **Artificial Intelligence, Machine Learning, Full-Stack Architecture**, and **Zero-Lag 3D Graphics**. Focused on engineering robust digital systems — ranging from intelligent AI presentation engines and Android productivity platforms to real-time 60+ FPS WebGL simulations.
 
 ```javascript
 const engineer = {
   name: "Aaditya Pawar",
-  education: "Computer Engineering",
-  coreDisciplines: [
-    "Artificial Intelligence & Machine Learning",
-    "Full-Stack Web & API Architecture",
-    "High-Performance 3D WebGL & Shaders",
-    "Native Mobile Development (Android)"
+  role: "Computer Engineering Student & Full-Stack / AI Systems Developer",
+  disciplines: [
+    "Artificial Intelligence & Machine Learning (Python)",
+    "Full-Stack Web Architectures (React, Next.js, TypeScript)",
+    "High-Performance 3D WebGL & Shaders (Three.js, R3F)",
+    "Mobile & Native Engineering (Android / Kotlin)"
   ],
-  engineeringStandard: "Zero-lag performance, clean architecture, resilient automation.",
+  engineeringStandard: "60–120 FPS performance, clean architecture, automated resilience.",
   location: "India"
 };
 ```
 
 ---
 
-### 🛠️ Core Engineering Arsenal
+### 🛠️ Core Engineering Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,html,css,blender,androidstudio,git,github,vercel" alt="Tech Arsenal" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,html,css,blender,androidstudio,git,github,vercel,figma" alt="Tech Stack" />
 </div>
 
 <br/>
 
-| Engineering Layer | Technologies & Frameworks |
+| Engineering Layer | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | **Python**, **TypeScript**, **JavaScript**, **Kotlin**, **HTML5/CSS3**, **SQL** |
 | **AI, ML & Data** | **Python (NumPy, Pandas, Scikit-Learn)**, Prompt Engineering, Generative AI Workflows |
-| **Frontend & WebGL** | **React 19**, **Next.js**, **Three.js**, **React Three Fiber**, **GSAP**, **Tailwind CSS**, **Lenis** |
-| **Mobile & Systems** | **Android SDK**, **Kotlin**, **DeveloperOS Utilities**, **System Architecture** |
-| **DevOps & CI/CD** | **GitHub Actions (Daily Automations)**, **Git**, **Vite**, **Vercel**, **gltf-transform** |
+| **Frontend & 3D Web** | **React 19**, **Next.js**, **Three.js**, **React Three Fiber**, **GSAP**, **Tailwind CSS**, **Lenis** |
+| **Mobile & Systems** | **Android SDK**, **Kotlin**, **System Automation & Developer OS Tooling** |
+| **DevOps & Cloud** | **GitHub Actions (Unattended CI/CD)**, **Git**, **Vite**, **Vercel**, **gltf-transform** |
 
 ---
 
-### 📂 Complete Repository Portfolio
+### 📂 Featured Projects & Repositories
 
-A comprehensive overview of public repositories across artificial intelligence, web performance, mobile systems, and creative graphics:
+A curated portfolio of active public repositories across AI systems, creative 3D graphics, mobile OS, and developer tooling:
 
-| Repository | Focus & Domain | Architecture & Stack | Key Highlights |
-| :--- | :--- | :--- | :--- |
-| **[SLIDE-AI-](https://github.com/Adityapawar7/SLIDE-AI-)** | **AI Presentation Platform** | TypeScript, AI Engine, Automation | Automated prompt-to-presentation engine with intelligent slide layouts, speaker scripts, and instant PPTX export. |
-| **[scuderia-ferrari-webgl](https://github.com/Adityapawar7/scuderia-ferrari-webgl)** | **3D WebGL Telemetry Showcase** | Three.js, React Three Fiber, GSAP, Draco | Awwwards-tier 60+ FPS automotive experience featuring 0ms custom pointer tracking, Draco compressed 3D geometry, and kinetic scroll physics. |
-| **[learnerz-premium-study-suite](https://github.com/Adityapawar7/learnerz-premium-study-suite)** | **Android Productivity OS** | Kotlin, Android SDK, Material UI | Premium mobile study OS designed for ultra-deep work, structured sessions, and cognitive focus management. |
-| **[DeveloperOS](https://github.com/Adityapawar7/DeveloperOS)** | **System Utilities & Tooling** | Python, System Automation | Modular developer productivity ecosystem automating workstation workflows, environment setup, and system monitoring. |
-| **[primeparkour](https://github.com/Adityapawar7/primeparkour)** | **Interactive 3D Physics** | TypeScript, WebGL | Browser-based interactive parkour physics experiment and kinetic movement simulator. |
-| **[3dportfolio](https://github.com/Adityapawar7/3dportfolio)** | **Creative 3D Environment** | TypeScript, Three.js | Spatial 3D portfolio experience presenting interactive digital projects in an explorable canvas. |
-| **[portfoli](https://github.com/Adityapawar7/portfoli)** | **Software Portfolio** | TypeScript, React | Personal software engineering index and project showcase. |
+<table>
+  <tr>
+    <td width="55%">
+      <h3>🤖 SLIDE-AI-</h3>
+      <p>An AI-powered presentation platform that instantly transforms text prompts into multi-slide presentations with automated layouts, speaker scripts, and PPTX export.</p>
+      <ul>
+        <li>⚡ <strong>Automated Generation</strong> — Intelligent slide deck generation from natural language prompts</li>
+        <li>📑 <strong>Multi-Format Export</strong> — Generates editable PPTX presentations and presentation outlines</li>
+        <li>🎨 <strong>Modular Frontend</strong> — Built with TypeScript and modern presentation layouts</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Adityapawar7/SLIDE-AI-"><strong>View Repository »</strong></a>
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/Adityapawar7/SLIDE-AI-">
+        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=800&auto=format&fit=crop" alt="Slide AI Preview" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
+      <h3>🏁 Scuderia Ferrari 488 GT3 — 3D WebGL Showcase</h3>
+      <p>An Awwwards-tier interactive 3D WebGL experience built with <strong>Three.js</strong>, <strong>React Three Fiber</strong>, and <strong>GSAP</strong>.</p>
+      <ul>
+        <li>⚡ <strong>Zero-Lag Kinetic Physics</strong> — Rock-solid 60+ FPS with Draco-compressed 3D geometry</li>
+        <li>🎯 <strong>Custom Telemetry Cursor</strong> — 0ms hardware pointer tracking with aerodynamic velocity stretch</li>
+        <li>🏎️ <strong>Interactive Stages</strong> — Ground-effect telemetry, aerodynamics inspection, and live finale</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Adityapawar7/scuderia-ferrari-webgl"><strong>View Repository »</strong></a> • 
+        <a href="https://scuderia-ferrari-webgl.vercel.app" target="_blank"><strong>Live Demo »</strong></a>
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/Adityapawar7/scuderia-ferrari-webgl">
+        <img src="https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=800&auto=format&fit=crop" alt="Ferrari 488 GT3 Preview" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
+      <h3>📱 Learnerz — Premium Study OS & Focus Suite</h3>
+      <p>A native Android deep-work productivity suite engineered with <strong>Kotlin</strong> and Android SDK for distraction-free study blocks and cognitive retention.</p>
+      <ul>
+        <li>⏱️ <strong>Focus Session Engine</strong> — Custom timer algorithms and structured Pomodoro work states</li>
+        <li>🎯 <strong>Habit Tracking & Analytics</strong> — Local SQLite session storage and productivity metrics</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Adityapawar7/learnerz-premium-study-suite"><strong>View Repository »</strong></a>
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/Adityapawar7/learnerz-premium-study-suite">
+        <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=800&auto=format&fit=crop" alt="Learnerz Study OS Preview" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="55%">
+      <h3>⚙️ DeveloperOS</h3>
+      <p>A modular system automation and developer utility suite written in <strong>Python</strong> to streamline development environments, automate recurring tasks, and enhance desktop workflow productivity.</p>
+      <ul>
+        <li>🛠️ <strong>Task Automation</strong> — Automated development setup scripts and system tooling</li>
+        <li>💻 <strong>Cross-Platform Scripts</strong> — Modular Python automation pipelines</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Adityapawar7/DeveloperOS"><strong>View Repository »</strong></a>
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/Adityapawar7/DeveloperOS">
+        <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop" alt="DeveloperOS Preview" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔍 View Additional Experiments & Repositories</b></summary>
+<br/>
+
+| Repository | Domain | Tech Stack | Overview |
+| :--- | :--- | :---: | :--- |
+| **[primeparkour](https://github.com/Adityapawar7/primeparkour)** | 3D Physics | `TypeScript` | Interactive 3D parkour physics engine and browser kinematics simulation. |
+| **[3dportfolio](https://github.com/Adityapawar7/3dportfolio)** | Creative Web | `TypeScript` | Spatial 3D portfolio environment showcasing interactive digital projects. |
+| **[portfoli](https://github.com/Adityapawar7/portfoli)** | Web Engineering | `TypeScript` | Software engineering portfolio index and personal project directory. |
+
+</details>
 
 ---
 
-### 🤖 Unattended Daily Automation
+### 📡 Unattended Daily Repository Digest
 
 <!--DIGEST_START-->
 
 ### 📡 Live Repository Telemetry & Activity Digest
-> *Automated digest compiled at **`2026-09-06 19:21 UTC`** by unattended GitHub Actions runner.*
+> *Automated digest compiled at **`2026-09-06 19:23 UTC`** by unattended GitHub Actions runner.*
 
 | Repository | Focus & Domain | Primary Tech | Stars | Forks | Open Issues | Last Activity |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -101,7 +191,7 @@ A comprehensive overview of public repositories across artificial intelligence, 
 
 ---
 
-### 📈 Activity & Momentum
+### 📊 GitHub Telemetry & Momentum
 
 <div align="center">
   <!-- Streak Counter -->
@@ -121,9 +211,13 @@ A comprehensive overview of public repositories across artificial intelligence, 
 ---
 
 <div align="center">
-  <h3>🤝 Open for Opportunities & Collaborations</h3>
-  <p>Interested in collaborating on AI systems, scalable full-stack applications, and cutting-edge 3D interactive web experiences.</p>
-  <a href="mailto:adityapawarone8@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20In%20Touch-adityapawarone8%40gmail.com-FFBA00?style=for-the-badge&logo=mailgun&logoColor=black" alt="Contact" />
-  </a>
+
+### 🤝 Connect & Collaborate
+
+Open for engineering opportunities, collaborative AI development, scalable software systems, and innovative WebGL products.
+
+<a href="mailto:adityapawarone8@gmail.com">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-adityapawarone8%40gmail.com-FFBA00?style=for-the-badge&logo=mailgun&logoColor=black" alt="Contact Me" />
+</a>
+
 </div>
